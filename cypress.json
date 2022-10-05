@@ -1,0 +1,15 @@
+{
+    "baseUrl": "https://mycompanion.com.br",
+    "failOnStatusCode": false,
+    "viewportWidth": 1440,
+    "viewportHeight": 900,
+    "env": {
+        "db": {
+          "user"          : "userdb",
+          "password"      : "passDb",
+          "connectString" : "hostDb/db"
+        }
+      }
+
+}
+
