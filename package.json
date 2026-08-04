@@ -10,6 +10,6 @@
   "license": "MIT",
   "devDependencies": {
     "cypress": "^15.19.0",
-    "oracledb": "^5.5.0"
+    "oracledb": "^7.0.1"
   }
 }
