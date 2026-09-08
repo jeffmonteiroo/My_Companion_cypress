@@ -9,7 +9,7 @@
   "author": "Jeff",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "^15.19.0",
+    "cypress": "^16.0.0",
     "oracledb": "^5.5.0"
   }
 }
